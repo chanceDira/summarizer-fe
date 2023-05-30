@@ -2,6 +2,8 @@
 
 Frontend for TV Script summarizer
 
+![2023-05-30_13-00](https://github.com/chanceDira/summarizer-fe/assets/67952319/56033aa2-d732-40ac-aff2-95df24b801de)
+
 ## How to run
 
 To run this project on your local machine make sure that all the following are checked
